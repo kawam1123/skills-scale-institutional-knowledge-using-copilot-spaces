@@ -80,8 +80,8 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ### 役割の適用方針
 - これらの役割は、すべてのプロジェクトで必須ではありません。
 - プロジェクトの規模、リスク、規制要件、顧客影響、運用負荷、データ活用の必要性に応じて割り当てます。
-- 小規模プロジェクトでは、Product Managers や Project Managers が一部の責務を兼務しても構いません。
-- 高リスク案件や対外影響の大きい案件では、QA、Security/Compliance、SRE/Operations、Customer Support/Success などの関与を早期に明確化します。
+- 小規模プロジェクトでは、Product Managers（プロダクトマネージャー）や Project Managers（プロジェクトマネージャー）が一部の責務を兼務しても構いません。
+- 高リスク案件や対外影響の大きい案件では、QA／テストリード、Security／Compliance 担当、SRE／運用担当、Customer Support／Customer Success 担当などの関与を早期に明確化します。
 
 ### エグゼクティブスポンサー／プロジェクトスポンサー
 
@@ -267,7 +267,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ### 役割分担の例（RACI の一例）
 
-| テーマ | Sponsor | Product Managers | Project Managers | Developers | UX/Designer | QA/Test Lead | Security/Compliance | SRE/Operations | Data/Analytics | Customer Support/Success |
+| テーマ | エグゼクティブスポンサー／プロジェクトスポンサー | Product Managers（プロダクトマネージャー） | Project Managers（プロジェクトマネージャー） | Developers（開発担当） | UX／プロダクトデザイナー | QA／テストリード | Security／Compliance 担当 | SRE／運用担当 | データ／アナリティクス担当 | Customer Support／Customer Success 担当 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 事業目的・成功条件の承認 | A | R | C | I | C | I | I | I | C | C |
 | スコープ・優先順位の整理 | C | A/R | C | C | C | I | I | I | C | C |
