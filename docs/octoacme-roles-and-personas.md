@@ -75,6 +75,8 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+<a id="additional-project-management-personas-ja"></a>
+
 ## 追加のプロジェクト管理ペルソナ（日本語）
 
 ### 役割の適用方針
@@ -309,4 +311,4 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-- The additional Japanese project-management personas in 追加のプロジェクト管理ペルソナ（日本語） can be mixed into project-specific scenarios depending on size, risk, compliance needs, and customer impact.
+- The additional Japanese project-management personas in [追加のプロジェクト管理ペルソナ（日本語）](#additional-project-management-personas-ja) can be mixed into project-specific scenarios depending on size, risk, compliance needs, and customer impact.
