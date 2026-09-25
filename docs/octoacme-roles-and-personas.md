@@ -279,7 +279,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 | 効果測定・振り返り分析 | I | A/R | C | I | I | I | I | I | R | C |
 | 顧客周知・サポート準備 | I | C | C | I | I | I | I | C | I | A/R |
 
-- A = Accountable、R = Responsible、A/R = Accountable かつ Responsible、C = Consulted、I = Informed
+- A = Accountable、R = Responsible、A/R = Accountable かつ Responsible（説明責任を持ちながら実務実行にも参加する役割で、同じ行の別セルにある R は追加の実行担当を示す）、C = Consulted、I = Informed
 - 実際の役割分担はチーム構成に応じて調整する
 
 ### 主要な引き継ぎポイント
