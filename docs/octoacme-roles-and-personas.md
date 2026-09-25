@@ -289,18 +289,18 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - **Release → Retrospective**: データ／アナリティクス担当 と Customer Support／Customer Success 担当が利用状況、顧客反応、問い合わせ傾向を収集し、次の優先順位や改善策へつなげる
 
 ### 意思決定・エスカレーション経路
-- 事業優先順位、投資判断、重大なスコープ変更は Product Managers が提案し、必要に応じて Sponsor が承認する
-- スケジュール、依存関係、進行上の課題は Project Managers が一次判断し、解消できない場合は Sponsor や関係部門へエスカレーションする
-- 品質上の懸念は QA/Test Lead が集約し、Product Managers・Project Managers とリリース判断へ反映する
-- セキュリティ／規制上の懸念は Security/Compliance が基準を提示し、リスク受容が必要な場合は Sponsor または責任者へ上げる
-- 障害対応やリリース後の顧客影響は SRE/Operations と Customer Support/Success が連携し、必要に応じて Project Managers と Sponsor へ報告する
+- 事業優先順位、投資判断、重大なスコープ変更は Product Managers（プロダクトマネージャー）が提案し、必要に応じて エグゼクティブスポンサー／プロジェクトスポンサー が承認する
+- スケジュール、依存関係、進行上の課題は Project Managers（プロジェクトマネージャー）が一次判断し、解消できない場合は エグゼクティブスポンサー／プロジェクトスポンサー や関係部門へエスカレーションする
+- 品質上の懸念は QA／テストリード が集約し、Product Managers（プロダクトマネージャー）・Project Managers（プロジェクトマネージャー）とリリース判断へ反映する
+- セキュリティ／規制上の懸念は Security／Compliance 担当 が基準を提示し、リスク受容が必要な場合は エグゼクティブスポンサー／プロジェクトスポンサー または責任者へ上げる
+- 障害対応やリリース後の顧客影響は SRE／運用担当 と Customer Support／Customer Success 担当 が連携し、必要に応じて Project Managers（プロジェクトマネージャー）と エグゼクティブスポンサー／プロジェクトスポンサー へ報告する
 
 ### プロセスとの接点
-- **Initiation**: Sponsor、Product Managers、Project Managers が目的、成功条件、主要ステークホルダーを定義し、必要に応じて UX/Designer や Security/Compliance が初期条件を補足する
-- **Planning**: Project Managers が計画を主導し、UX/Designer、QA/Test Lead、Security/Compliance、SRE/Operations、Data/Analytics が実行条件と準備事項を具体化する
-- **Execution**: Developers が実装を進め、各専門役割がレビュー、検証、品質ゲート、運用準備、計測設計を支援する
-- **Release**: QA/Test Lead、Security/Compliance、SRE/Operations、Customer Support/Success がリリース可否判断材料と顧客対応準備を揃える
-- **Retrospective**: Developers、Product Managers、Project Managers、データ／アナリティクス担当、Customer Support／Customer Success 担当が成果、課題、顧客影響を振り返り、改善アクションを定義する
+- **Initiation**: エグゼクティブスポンサー／プロジェクトスポンサー、Product Managers（プロダクトマネージャー）、Project Managers（プロジェクトマネージャー）が目的、成功条件、主要ステークホルダーを定義し、必要に応じて UX／プロダクトデザイナー や Security／Compliance 担当 が初期条件を補足する
+- **Planning**: Project Managers（プロジェクトマネージャー）が計画を主導し、UX／プロダクトデザイナー、QA／テストリード、Security／Compliance 担当、SRE／運用担当、データ／アナリティクス担当 が実行条件と準備事項を具体化する
+- **Execution**: Developers（開発担当）が実装を進め、各専門役割がレビュー、検証、品質ゲート、運用準備、計測設計を支援する
+- **Release**: QA／テストリード、Security／Compliance 担当、SRE／運用担当、Customer Support／Customer Success 担当 がリリース可否判断材料と顧客対応準備を揃える
+- **Retrospective**: Developers（開発担当）、Product Managers（プロダクトマネージャー）、Project Managers（プロジェクトマネージャー）、データ／アナリティクス担当、Customer Support／Customer Success 担当が成果、課題、顧客影響を振り返り、改善アクションを定義する
 
 ---
 
