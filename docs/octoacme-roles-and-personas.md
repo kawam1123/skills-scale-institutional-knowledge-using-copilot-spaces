@@ -300,7 +300,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - **Planning**: Project Managers が計画を主導し、UX/Designer、QA/Test Lead、Security/Compliance、SRE/Operations、Data/Analytics が実行条件と準備事項を具体化する
 - **Execution**: Developers が実装を進め、各専門役割がレビュー、検証、品質ゲート、運用準備、計測設計を支援する
 - **Release**: QA/Test Lead、Security/Compliance、SRE/Operations、Customer Support/Success がリリース可否判断材料と顧客対応準備を揃える
-- **Retrospective**: Product Managers、Project Managers、Data/Analytics、Customer Support/Success が成果、課題、顧客影響を振り返り、改善アクションを定義する
+- **Retrospective**: Developers、Product Managers、Project Managers、Data/Analytics、Customer Support/Success が成果、課題、顧客影響を振り返り、改善アクションを定義する
 
 ---
 
