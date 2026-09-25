@@ -100,7 +100,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - 複数部門にまたがる対立事項の最終エスカレーション先
 
 #### 期待される成果物
-- スポンサー承認済みの project charter / one-pager
+- スポンサー承認済みの project charter / one-pager（プロジェクト憲章／概要資料）
 - 重要判断の記録
 - 予算・優先順位・エスカレーションに関する承認履歴
 
@@ -283,10 +283,10 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - 実際の役割分担はチーム構成に応じて調整する
 
 ### 主要な引き継ぎポイント
-- **Initiation → Planning**: Sponsor と Product Managers が事業目的・優先順位を明確化し、Project Managers が体制・依存関係・初期リスクへ落とし込む
-- **Planning → Execution**: UX/Designer、QA/Test Lead、Security/Compliance、SRE/Operations がそれぞれの受け入れ条件と準備事項を Developers に引き継ぐ
-- **Execution → Release**: Developers、QA/Test Lead、Security/Compliance、SRE/Operations が品質・リスク・運用準備状況の結果を Project Managers と Product Managers に集約する
-- **Release → Retrospective**: Data/Analytics と Customer Support/Success が利用状況、顧客反応、問い合わせ傾向を収集し、次の優先順位や改善策へつなげる
+- **Initiation → Planning**: エグゼクティブスポンサー／プロジェクトスポンサー と Product Managers（プロダクトマネージャー）が事業目的・優先順位を明確化し、Project Managers（プロジェクトマネージャー）が体制・依存関係・初期リスクへ落とし込む
+- **Planning → Execution**: UX／プロダクトデザイナー、QA／テストリード、Security／Compliance 担当、SRE／運用担当がそれぞれの受け入れ条件と準備事項を Developers（開発担当）に引き継ぐ
+- **Execution → Release**: Developers（開発担当）、QA／テストリード、Security／Compliance 担当、SRE／運用担当が品質・リスク・運用準備状況の結果を Project Managers（プロジェクトマネージャー）と Product Managers（プロダクトマネージャー）に集約する
+- **Release → Retrospective**: データ／アナリティクス担当 と Customer Support／Customer Success 担当が利用状況、顧客反応、問い合わせ傾向を収集し、次の優先順位や改善策へつなげる
 
 ### 意思決定・エスカレーション経路
 - 事業優先順位、投資判断、重大なスコープ変更は Product Managers が提案し、必要に応じて Sponsor が承認する
