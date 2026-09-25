@@ -100,14 +100,14 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - 複数部門にまたがる対立事項の最終エスカレーション先
 
 #### 期待される成果物
-- スポンサー承認済みの project charter / one-pager（プロジェクト憲章／概要資料）
+- スポンサー承認済みの project charter／one-pager（プロジェクト憲章／概要資料）
 - 重要判断の記録
 - 予算・優先順位・エスカレーションに関する承認履歴
 
 #### 主な連携
 - Product Managers から顧客価値、優先順位、期待成果の提案を受ける
 - Project Managers から進捗、依存関係、リスク、判断依頼を受ける
-- Developers、SRE/Operations、Security/Compliance から重大な技術・運用リスクを受けて判断する
+- Developers、SRE／運用担当、Security／Compliance 担当から重大な技術・運用リスクを受けて判断する
 
 ### UX／プロダクトデザイナー
 
@@ -133,7 +133,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 主な連携
 - Product Managers と要件、成功条件、受け入れ基準を調整する
 - Developers と実装可能性、技術制約、段階的リリース案を確認する
-- QA/Test Lead と利用シナリオ、回帰観点、アクセシビリティ確認項目を共有する
+- QA／テストリード と利用シナリオ、回帰観点、アクセシビリティ確認項目を共有する
 
 ### QA／テストリード
 
@@ -149,7 +149,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 意思決定範囲
 - テスト観点、品質ゲート、回帰範囲の提案
 - リリース可否に関する品質上の推奨
-- ただし最終的なリリース判断は Product Managers、Project Managers、必要に応じて Sponsor と合意する
+- ただし最終的なリリース判断は Product Managers、Project Managers、必要に応じて エグゼクティブスポンサー／プロジェクトスポンサー と合意する
 
 #### 期待される成果物
 - テスト戦略書、テスト計画
@@ -175,7 +175,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 意思決定範囲
 - セキュリティレビュー観点、必須対策、承認条件の定義
 - リスク受容の提案
-- ただしビジネス上のリスク受容判断は Sponsor や責任者の承認を要する
+- ただしビジネス上のリスク受容判断は エグゼクティブスポンサー／プロジェクトスポンサー や責任者の承認を要する
 
 #### 期待される成果物
 - セキュリティ／コンプライアンス要求一覧
@@ -185,7 +185,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 主な連携
 - Developers と対策の実装方針を決める
 - Project Managers とリスク、承認待ち事項、外部依存を管理する
-- SRE/Operations と本番運用条件、ログ、アクセス管理、インシデント対応手順を確認する
+- SRE／運用担当 と本番運用条件、ログ、アクセス管理、インシデント対応手順を確認する
 
 ### SRE／運用担当
 
@@ -201,7 +201,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 意思決定範囲
 - 運用準備状況、監視要件、ロールバック可能性に関する判断
 - リリースウィンドウや切り戻し条件の提案
-- ただし顧客影響を伴う延期判断は Project Managers、Product Managers、必要に応じて Sponsor と連携する
+- ただし顧客影響を伴う延期判断は Project Managers、Product Managers、必要に応じて エグゼクティブスポンサー／プロジェクトスポンサー と連携する
 
 #### 期待される成果物
 - 運用設計、監視項目、アラート設定方針
@@ -211,7 +211,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 主な連携
 - Developers と可観測性、障害復旧性、運用しやすさを設計する
 - Project Managers とリリース計画、変更管理、運用体制を調整する
-- Customer Support/Success と障害時の連絡導線や顧客影響の共有方法を合わせる
+- Customer Support／Customer Success 担当 と障害時の連絡導線や顧客影響の共有方法を合わせる
 
 ### データ／アナリティクス担当
 
@@ -227,7 +227,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 意思決定範囲
 - 計測設計、指標定義、分析観点の提案
 - 実験や追加分析の優先順位付け支援
-- ただしロードマップや投資判断は Product Managers や Sponsor と整合させる
+- ただしロードマップや投資判断は Product Managers や エグゼクティブスポンサー／プロジェクトスポンサー と整合させる
 
 #### 期待される成果物
 - KPI 定義、計測設計書
@@ -263,7 +263,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 主な連携
 - Product Managers と顧客課題、機能要望、顧客価値を共有する
 - Project Managers とサポート準備、問い合わせ増加時の体制を調整する
-- SRE/Operations とインシデント時の顧客連絡や状況共有の流れを揃える
+- SRE／運用担当 とインシデント時の顧客連絡や状況共有の流れを揃える
 
 ### 役割分担の例（RACI の一例）
 
