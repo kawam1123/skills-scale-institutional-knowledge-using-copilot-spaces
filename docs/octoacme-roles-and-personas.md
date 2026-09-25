@@ -199,7 +199,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - リリース後の初期監視と安定化を支援する
 
 #### 意思決定範囲
-- 運用 readiness、監視要件、ロールバック可能性に関する判断
+- 運用準備状況、監視要件、ロールバック可能性に関する判断
 - リリースウィンドウや切り戻し条件の提案
 - ただし顧客影響を伴う延期判断は Project Managers、Product Managers、必要に応じて Sponsor と連携する
 
@@ -275,7 +275,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 | UX 設計・受け入れ観点整理 | I | C | I | C | A/R | C | I | I | I | C |
 | 品質戦略・リリース品質判断材料 | I | C | C | R | I | A/R | I | C | I | I |
 | セキュリティ・規制条件の確認 | I | C | C | R | I | I | A/R | C | I | I |
-| 運用 readiness・リリース手順 | I | C | C | R | I | C | C | A/R | I | C |
+| 運用準備状況・リリース手順 | I | C | C | R | I | C | C | A/R | I | C |
 | 効果測定・振り返り分析 | I | A/R | C | I | I | I | I | I | R | C |
 | 顧客周知・サポート準備 | I | C | C | I | I | I | I | C | I | A/R |
 
@@ -285,7 +285,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ### 主要な引き継ぎポイント
 - **Initiation → Planning**: Sponsor と Product Managers が事業目的・優先順位を明確化し、Project Managers が体制・依存関係・初期リスクへ落とし込む
 - **Planning → Execution**: UX/Designer、QA/Test Lead、Security/Compliance、SRE/Operations がそれぞれの受け入れ条件と準備事項を Developers に引き継ぐ
-- **Execution → Release**: Developers、QA/Test Lead、Security/Compliance、SRE/Operations が品質・リスク・運用 readiness の結果を Project Managers と Product Managers に集約する
+- **Execution → Release**: Developers、QA/Test Lead、Security/Compliance、SRE/Operations が品質・リスク・運用準備状況の結果を Project Managers と Product Managers に集約する
 - **Release → Retrospective**: Data/Analytics と Customer Support/Success が利用状況、顧客反応、問い合わせ傾向を収集し、次の優先順位や改善策へつなげる
 
 ### 意思決定・エスカレーション経路
