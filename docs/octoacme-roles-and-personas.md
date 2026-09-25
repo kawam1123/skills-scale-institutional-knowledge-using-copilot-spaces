@@ -237,7 +237,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 #### 主な連携
 - Product Managers と成功条件や評価観点を合意する
 - Developers とイベント実装やデータ品質の前提を確認する
-- Project Managers と分析結果を共有し、Retrospective や次回計画へ反映する
+- Project Managers と分析結果を共有し、振り返り（Retrospective）や次回計画へ反映する
 
 ### Customer Support／Customer Success 担当
 
@@ -266,6 +266,8 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - SRE／運用担当 とインシデント時の顧客連絡や状況共有の流れを揃える
 
 ### 役割分担の例（RACI の一例）
+
+以下の例では、`A/R` は「説明責任を持ちながら実務実行にも参加する役割」を表し、同じ行の別セルにある `R` は追加の実行担当を示します。
 
 | テーマ | エグゼクティブスポンサー／プロジェクトスポンサー | Product Managers（プロダクトマネージャー） | Project Managers（プロジェクトマネージャー） | Developers（開発担当） | UX／プロダクトデザイナー | QA／テストリード | Security／Compliance 担当 | SRE／運用担当 | データ／アナリティクス担当 | Customer Support／Customer Success 担当 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -307,4 +309,4 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-- The additional Japanese project-management personas can be mixed into project-specific scenarios depending on size, risk, compliance needs, and customer impact.
+- The additional Japanese project-management personas in `追加のプロジェクト管理ペルソナ（日本語）` can be mixed into project-specific scenarios depending on size, risk, compliance needs, and customer impact.
